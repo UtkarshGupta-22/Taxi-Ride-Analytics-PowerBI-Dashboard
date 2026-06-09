@@ -356,8 +356,8 @@ Pranveer Singh Institute of Technology (PSIT), Kanpur
 
 #### Connect With Me
 
-**LinkedIn:** https://www.linkedin.com/in/your-linkedin-profile
+**LinkedIn:** https://www.linkedin.com/in/utkarsh-gupta-profile/
 
-**GitHub:** https://github.com/your-github-profile
+**GitHub:** https://github.com/utkarshgupta-22
 
 These are among the most sought-after skills for Data Analyst, Business Analyst, Operations Analyst, Data Engineer Intern, and Data Science Intern roles.
