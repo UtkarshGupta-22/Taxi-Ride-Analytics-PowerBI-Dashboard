@@ -360,4 +360,4 @@ Pranveer Singh Institute of Technology (PSIT), Kanpur
 
 **GitHub:** https://github.com/utkarshgupta-22
 
-These are among the most sought-after skills for Data Analyst, Business Analyst, Operations Analyst, Data Engineer Intern, and Data Science Intern roles.
+Through this project, I applied data analytics, visualization, and business intelligence techniques to transform raw booking data into actionable business insights.
