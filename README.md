@@ -968,70 +968,22 @@ Introduce loyalty programs and targeted promotions for repeat customers to incre
 
 # Screenshots
 
-Create a dedicated `screenshots/` folder inside the repository.
+<h2 align="center">Dashboard Gallery</h2>
 
-```text
-screenshots/
+<p align="center">
+  <img src="screenshots/overview_dashboard.png" width="48%">
+  <img src="screenshots/vehicle_performance.png" width="48%">
+</p>
 
-├── overview_dashboard.png
+<p align="center">
+  <img src="screenshots/revenue_analysis.png" width="48%">
+  <img src="screenshots/cancellation_analysis.png" width="48%">
+</p>
 
-├── vehicle_dashboard.png
-
-├── revenue_dashboard.png
-
-├── cancellation_dashboard.png
-
-├── ratings_dashboard.png
-
-└── service_quality_dashboard.png
-```
-
-Display them within the README.
-
-```markdown
-## Executive Dashboard
-
-![Executive Dashboard](screenshots/overview_dashboard.png)
-
----
-
-## Vehicle Performance
-
-![Vehicle Performance](screenshots/vehicle_performance.png)
-
----
-
-## Revenue Dashboard
-
-![Revenue Dashboard](screenshots/revenue_analysis.png)
-
----
-
-## Cancellation Dashboard
-
-![Cancellation Dashboard](screenshots/cancellation_analysis.png)
-
----
-
-## Customer & Driver Ratings
-
-![Ratings Dashboard](screenshots/ratings_dashboard.png)
-
----
-
-## Service Quality Dashboard
-
-![Service Quality Dashboard](screenshots/service_quality_dashboard.png)
-
----
-
-## Taxi Ride Analysis
-
-![Taxi Ride Analysis](screenshots/Taxi%20Ride%20Analysis.png)
-
-
-```
-
+<p align="center">
+  <img src="screenshots/ratings_dashboard.png" width="48%">
+  <img src="screenshots/service_quality_dashboard.png" width="48%">
+</p>
 
 # Dashboard Highlights
 
