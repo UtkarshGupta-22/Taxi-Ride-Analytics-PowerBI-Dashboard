@@ -991,25 +991,25 @@ Display them within the README.
 ```markdown
 ## Executive Dashboard
 
-![Overview](screenshots/overview_dashboard.png)
+![Executive Dashboard](screenshots/overview_dashboard.png)
 
 ---
 
 ## Vehicle Performance
 
-![Vehicle Dashboard](screenshots/vehicle_dashboard.png)
+![Vehicle Performance](screenshots/vehicle_performance.png)
 
 ---
 
 ## Revenue Dashboard
 
-![Revenue Dashboard](screenshots/revenue_dashboard.png)
+![Revenue Dashboard](screenshots/revenue_analysis.png)
 
 ---
 
 ## Cancellation Dashboard
 
-![Cancellation Dashboard](screenshots/cancellation_dashboard.png)
+![Cancellation Dashboard](screenshots/cancellation_analysis.png)
 
 ---
 
@@ -1022,9 +1022,16 @@ Display them within the README.
 ## Service Quality Dashboard
 
 ![Service Quality Dashboard](screenshots/service_quality_dashboard.png)
-```
 
 ---
+
+## Taxi Ride Analysis
+
+![Taxi Ride Analysis](screenshots/Taxi%20Ride%20Analysis.png)
+
+
+```
+
 
 # Dashboard Highlights
 
